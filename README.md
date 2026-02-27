@@ -54,7 +54,7 @@ medisearch/
 > Coming soon — RAGAS scores will be documented here after Week 2.
 
 ## Author
-Built by [Your Name] as part of an AI Engineering portfolio.  
+Built by Teja U as part of an AI Engineering portfolio.  
 Mentored under a structured SDLC approach mirroring production 
 AI engineering workflows.
 
